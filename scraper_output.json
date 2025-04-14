@@ -1,0 +1,349 @@
+[
+  {
+    "Regulator": "White House",
+    "Method": "Scraper",
+    "Count": 10,
+    "SourceURL": "https://www.whitehouse.gov/news/",
+    "Entries": [
+      {
+        "Date": "2025-04-13",
+        "Topic": "SUNDAY SHOWS: President Trump\u2019s America First Trade Policies in Action",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/articles/2025/04/sunday-shows-president-trumps-america-first-trade-policies-in-action/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-13",
+        "Topic": "Memorandum from the White House Physician",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/briefings-statements/2025/04/memorandum-from-the-white-house-physician/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-13",
+        "Topic": "Presidential Message on Holy Week, 2025",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/briefings-statements/2025/04/presidential-message-on-holy-week-2025/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-13",
+        "Topic": "Statement from the White House",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/briefings-statements/2025/04/statement-from-the-white-house/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-11",
+        "Topic": "Week 12\u2019s Winners: The American People",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/articles/2025/04/week-12s-winners-the-american-people/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-11",
+        "Topic": "Military Mission for Sealing the Southern Border of the United States and Repelling Invasions",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/presidential-actions/2025/04/military-mission-for-sealing-the-southern-border-of-the-united-states-and-repelling-invasions/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-11",
+        "Topic": "Clarification of Exceptions Under Executive Order 14257 of April 2, 2025, as Amended",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/presidential-actions/2025/04/clarification-of-exceptions-under-executive-order-14257-of-april-2-2025-as-amended/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-11",
+        "Topic": "The State of Play: Why President Trump\u2019s Tariffs Are Necessary",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/articles/2025/04/the-state-of-play-why-president-trumps-tariffs-are-necessary/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-11",
+        "Topic": "ICYMI: Migrants on Terror Watchlist Received Medicaid",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/articles/2025/04/icymi-migrants-on-terror-watchlist-received-medicaid/",
+        "Regulator": "White House"
+      },
+      {
+        "Date": "2025-04-10",
+        "Topic": "TRUMP EFFECT: Americans See First Price Relief in Years",
+        "Summary": "",
+        "Link": "https://www.whitehouse.gov/articles/2025/04/trump-effect-americans-see-first-price-relief-in-years/",
+        "Regulator": "White House"
+      }
+    ]
+  },
+  {
+    "Regulator": "CFPB",
+    "Method": "Scraper",
+    "Count": 0,
+    "SourceURL": "https://www.consumerfinance.gov/about-us/newsroom/",
+    "Entries": []
+  },
+  {
+    "Regulator": "Federal Reserve",
+    "Method": "RSS",
+    "Count": 4,
+    "SourceURL": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "Entries": [
+      {
+        "Date": "2025-04-09",
+        "Topic": "Minutes of the Federal Open Market Committee, March 18\u201319, 2025",
+        "Summary": "Minutes of the Federal Open Market Committee, March 18\u201319, 2025",
+        "Link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250409a.htm",
+        "Regulator": "Federal Reserve"
+      },
+      {
+        "Date": "2025-04-08",
+        "Topic": "Federal Reserve Board announces termination of enforcement action with former employee of The Marathon Bank",
+        "Summary": "Federal Reserve Board announces termination of enforcement action with former employee of The Marathon Bank",
+        "Link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250408a.htm",
+        "Regulator": "Federal Reserve"
+      },
+      {
+        "Date": "2025-04-01",
+        "Topic": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico and announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+        "Summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico and announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+        "Link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250401a.htm",
+        "Regulator": "Federal Reserve"
+      },
+      {
+        "Date": "2025-03-28",
+        "Topic": "Agencies announce intent to rescind 2023 Community Reinvestment Act final rule",
+        "Summary": "Agencies announce intent to rescind 2023 Community Reinvestment Act final rule",
+        "Link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250328a.htm",
+        "Regulator": "Federal Reserve"
+      }
+    ]
+  },
+  {
+    "Regulator": "BIS",
+    "Method": "RSS",
+    "Count": 25,
+    "SourceURL": "https://www.bis.org/doclist/rss_all_categories.rss",
+    "Entries": [
+      {
+        "Date": "2025-04-11",
+        "Topic": "How accurately do consumers report their debts in household surveys?",
+        "Summary": "This article advances upon previous studies by using a unique match of a representative sample of individual borrowers from the Chilean Household Finance Survey and their banking loan records. I show that surveys differ from the credit registry, not just in the number of loans reported, but also in their amount, with a substantial degree of heterogeneity.",
+        "Link": "https://www.bis.org/publ/work1258.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-10",
+        "Topic": "Macroprudential and  monetary policy tightening: more than a double whammy?",
+        "Summary": "by Markus Behn, Stijn Claessens, Leonardo Gambacorta, Alessio Reghezza<br />We investigate the interaction between monetary and macroprudential policy in affecting banks' lending and risk-taking behaviour using rich euro area credit registry data and exploiting a unique setting that combined a sharp and unexpected monetary tightening with a wave of macroprudential tightening initiated before. While, for the average bank, required capital buffer increases did not significantly reduce lending additionally during the monetary tightening, for those banks that became capital-constrained lending fell by about 1.3-1.8 percentage points more for existing credit relationships and new bank-firm relationships were 2.5-4.4 percentage points less likely to be established, both relative to better-capitalized banks.",
+        "Link": "https://www.bis.org/publ/work1257.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-10",
+        "Topic": "Leveraging tokenisation for payments and financial transactions",
+        "Summary": "Report by the Consultative Group on Innovation and the Digital Economy (CGIDE) established at the BIS Representative Office for the Americas, April 2025",
+        "Link": "https://www.bis.org/publ/othp92.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Act early or pay later: the role of qualitative measures in effective supervisory frameworks",
+        "Summary": "The March 2023 banking turmoil exposed fundamental failures in bank governance and supervisory oversight. While the affected banks met applicable quantitative requirements, they faced unprecedented liquidity runs, due to poor board oversight, flawed risk management and unsustainable business models. This paper examines various supervisory frameworks that underpin the use of qualitative measures and identifies key attributes that can enhance supervisory effectiveness.",
+        "Link": "https://www.bis.org/fsi/publ/insights66.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Monetary policy analysis at the crossroads - insights from central banks' reviews",
+        "Summary": "Speech by Mr Jan Frait, Deputy Governor of the Czech National Bank, at the Czech National Bank Workshop 'Monetary policy: inflation targeting frameworks under review', Prague, 1 April 2025.",
+        "Link": "https://www.bis.org/review/r250409g.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Eva Zamrazilov\u00e1: The role of macroeconomic models in the forecasting process - survey results",
+        "Summary": "Speech by Ms Eva Zamrazilov\u00e1, Deputy Governor of the Czech National Bank, at the Czech National Bank Workshop 'Monetary policy: inflation targeting frameworks under review', Prague, 1 April 2025.",
+        "Link": "https://www.bis.org/review/r250407m.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Mary-Elizabeth McMunn: Shocks and shifts - regulation and supervision in a changing world",
+        "Summary": "Remarks by Ms Mary-Elizabeth McMunn, Deputy Governor of the Central Bank of Ireland, at the IOB, Dublin, 3 April 2025.",
+        "Link": "https://www.bis.org/review/r250407k.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Piero Cipollone: Empowering Europe - boosting strategic autonomy through the digital euro",
+        "Summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 8 April 2025.",
+        "Link": "https://www.bis.org/review/r250409f.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Olli Rehn: In science we trust? European enlightenment in the harsh world of geopolitics",
+        "Summary": "Remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the \"Quo Vadis Europe? Democratic software power in a hard Geopolitical world\" conference, organised by the Joint Research Centre, Seville, 2 April 2025.",
+        "Link": "https://www.bis.org/review/r250407o.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Launch of the Cambodia-Malaysia cross-border QR phase 2",
+        "Summary": "Congratulatory remarks by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Launch of the Cambodia-Malaysia Cross-border QR Phase 2, Kuala Lumpur, 8 April 2025.",
+        "Link": "https://www.bis.org/review/r250409e.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Ida Wolden Bache: Cooperation and independence - Norges Bank in a turbulent world",
+        "Summary": "Speech by Ms Ida Wolden Bache, Deputy Governor of Norges Bank (Central Bank of Norway), at the Finance Norway conference, Oslo, 8 April 2025.",
+        "Link": "https://www.bis.org/review/r250409d.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Financial and tax regulation for the digital era - charting the path forward",
+        "Summary": "Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the conference \"The interplay between tax and financial regulation in a new digital environment\", Rome, 7 April 2025.",
+        "Link": "https://www.bis.org/review/r250407p.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "Supply chain resilience - insights into greening value chains for ASEAN",
+        "Summary": "Keynote speech by Ms Madelena Mohamed, Assistant Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the High-Level Dialogue on 'Supply chain resilience: insights into greening value chains for ASEAN', Kuala Lumpur, 8 April 2025.",
+        "Link": "https://www.bis.org/review/r250409c.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "AI, fintechs, and banks",
+        "Summary": "Speech by Mr Michael S Barr, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Federal Reserve Bank of San Francisco, San Francisco, California, 4 April 2025.",
+        "Link": "https://www.bis.org/review/r250409b.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "The Spanish banking system and the challenges it faces",
+        "Summary": "Speech by Ms Soledad N\u00fa\u00f1ez, Deputy Governor of the Bank of Spain, at the Club Di\u00e1logos para la Democracia, Madrid, 1 April 2025.",
+        "Link": "https://www.bis.org/review/r250407n.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-09",
+        "Topic": "The economic outlook and path of policy",
+        "Summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2025 McKay Lecture, University of Pittsburgh, Pittsburgh, Pennsylvania, 3 April 2025.",
+        "Link": "https://www.bis.org/review/r250409a.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-08",
+        "Topic": "The disciplining effect of bank supervision: evidence from SupTech",
+        "Summary": "by Hans Degryse, C\u00e9dric Huylebroek, Bernardus F Nazar Van Doornik. Regulators increasingly rely on supervisory technologies (SupTech) to enhance bank supervision, but their potential role in disciplining bank behavior remains unclear. We address this knowledge gap using unique data from the SupTech application of the Central Bank of Brazil.",
+        "Link": "https://www.bis.org/publ/work1256.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-08",
+        "Topic": "Technology & Innovation Advisor",
+        "Summary": "Application deadline: 29 April 2025  | Toronto, Canada",
+        "Link": "https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS&cws=40&rid=1326",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "Affordable housing, unaffordable credit? Concentration and high-cost lending for manufactured homes",
+        "Summary": "Policy makers place high hopes in manufactured homes - the largest source of unsubsidized affordable housing in the US - to alleviate housing supply shortages. This paper shows that high market concentration in the multi-billion-dollar manufactured home loan market allows lenders to charge significantly higher interest rates than for site-built homes.",
+        "Link": "https://www.bis.org/publ/work1255.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "Luis de Guindos: Financial stability in uncertain times",
+        "Summary": "Speech by Mr Luis de Guindos, Vice-President of the European Central Bank, at the International Federation of Accountants' Chief Executives Forum, Amsterdam, 3 April 2025.",
+        "Link": "https://www.bis.org/review/r250407j.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "90th anniversary of the Reserve Bank of India",
+        "Summary": "Welcome address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the RBI@90 commemoration function, Mumbai, 1 April 2025.",
+        "Link": "https://www.bis.org/review/r250407i.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "Jerome H Powell: Economic outlook",
+        "Summary": "Speech by Mr Jerome H Powell, Chair of the Board of Governors of the Federal Reserve System, at the Society for Advancing Business Editing and Writing Annual Conference, Arlington, Virginia, 4 April 2025.",
+        "Link": "https://www.bis.org/review/r250407h.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "The transformative power of AI",
+        "Summary": "Welcome address by Ms Christine Lagarde, President of the European Central Bank, at the European Central Bank conference on 'The transformative power of AI: economic implications and challenges', Frankfurt am Main, 1 April 2025.",
+        "Link": "https://www.bis.org/review/r250407f.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "Christine Lagarde: A \"European moment\" in an inverted world",
+        "Summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, on the occasion of the conferral of the Sutherland Leadership Award, Dublin, 2 April 2025.",
+        "Link": "https://www.bis.org/review/r250407l.htm",
+        "Regulator": "BIS"
+      },
+      {
+        "Date": "2025-04-07",
+        "Topic": "Abdul Rasheed Ghaffour: Unlocking opportunities to advance ASEAN climate initiatives",
+        "Summary": "Speech by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the ASEAN Investors Roundtable, Kuala Lumpur, 7 April 2025.",
+        "Link": "https://www.bis.org/review/r250407e.htm",
+        "Regulator": "BIS"
+      }
+    ]
+  },
+  {
+    "Regulator": "OCC",
+    "Method": "RSS",
+    "Count": 0,
+    "SourceURL": "https://www.occ.gov/news-issuances/news-releases/index.xml",
+    "Entries": []
+  },
+  {
+    "Regulator": "FDIC",
+    "Method": "RSS",
+    "Count": 4,
+    "SourceURL": "https://public.govdelivery.com/topics/USFDIC_26/feed.rss",
+    "Entries": [
+      {
+        "Date": "2025-04-04",
+        "Topic": "Press Release: FDIC Issues List of Banks Examined for CRA Compliance",
+        "Summary": "The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in January 2025. The CRA is a 1977 law that requires the FDIC to assess a bank\u2019s record of meeting the credit needs of its entire community, including those of low- and moderate-income neighborhoods, consistent with safe and sound operations. As part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA), Congress mandated the public disclosure of an evaluation and rating for each bank or thrift that undergoes a CRA examination on or after July 1, 1990.",
+        "Link": "https://content.govdelivery.com/accounts/USFDIC/bulletins/3da2d9d",
+        "Regulator": "FDIC"
+      },
+      {
+        "Date": "2025-03-28",
+        "Topic": "FDIC Issues Enforcement Orders for February 2025",
+        "Summary": "The Federal Deposit Insurance Corporation (FDIC) today released a list of orders of administrative enforcement actions taken against banks and individuals in February 2025. There are no administrative hearings scheduled for April 2025. The FDIC issued seven safety and soundness orders in February 2025. The administrative enforcement actions in those orders consisted of one order terminating a consent order and six orders terminating a total of 100 waiver orders under Section 19 of the FDI Act, 12 U.S.C. \u00a7 1829 (Section 19 waiver orders).",
+        "Link": "https://orders.fdic.gov/s/press-release-orders?prDate=28&prMonth=3&prYear=2025&source=govdelivery&utm_medium=email&utm_source=govdelivery",
+        "Regulator": "FDIC"
+      },
+      {
+        "Date": "2025-03-28",
+        "Topic": "FDIC Clarifies Process for Banks to Engage in Crypto-Related Activities",
+        "Summary": "The Federal Deposit Insurance Corporation (FDIC) issued a Financial Institution Letter (FIL-7-2025) that provides new guidance for FDIC-supervised institutions engaging or seeking to engage in crypto-related activities. The new guidance, which rescinds FIL-16-2022, clarifies that FDIC-supervised institutions may engage in permissible crypto-related activities without receiving prior FDIC approval. The guidance affirms that FDIC-supervised institutions may engage in permissible activities, including activities involving new and emerging technologies such as crypto-assets and digital assets, provided that they adequately manage the associated risks.",
+        "Link": "https://www.fdic.gov/news/financial-institution-letters/2025/fdic-clarifies-process-banks-engage-crypto-related?source=govdelivery&utm_medium=email&utm_source=govdelivery",
+        "Regulator": "FDIC"
+      },
+      {
+        "Date": "2025-03-28",
+        "Topic": "Joint Press Release: Agencies Announce Intent to Rescind 2023 Community Reinvestment Act Final Rule",
+        "Summary": "The federal bank regulatory agencies today announced, in light of pending litigation, their intent to issue a proposal to both rescind the Community Reinvestment Act (CRA) final rule issued in October 2023 and reinstate the CRA framework that existed prior to the October 2023 final rule. The agencies will continue to work together to promote a consistent regulatory approach on their implementation of the CRA.",
+        "Link": "https://content.govdelivery.com/accounts/USFDIC/bulletins/3d91587",
+        "Regulator": "FDIC"
+      }
+    ]
+  }
+]
